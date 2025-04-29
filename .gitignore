@@ -1,0 +1,4 @@
+JSONS/*.json
+/vendor/
+config.php
+composer.lock
